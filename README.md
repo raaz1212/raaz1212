@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaz1212&label=Profile%20views&color=0e75b6&style=flat" alt="raaz1212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaz1212" alt="raaz1212" /></a> </p>
-
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://mukhlashur-rahman.netlify.app/](https://mukhlashur-rahman.netlify.app/)

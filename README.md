@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhlashur</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Junior Front-end Developer</h3>
 
 - 🌱 I’m currently learning **Redux**
 
